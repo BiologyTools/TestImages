@@ -1,2 +1,2 @@
 # TestImages
- Test images for BioImage
+ Test images for Bio.
